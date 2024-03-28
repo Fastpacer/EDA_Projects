@@ -1,5 +1,5 @@
 # EDA_Projects
-All my EDA projects pertinent to the field of Data Science and about varied range of topics
+All my EDA projects pertinent to the field of Data Science and about wide range of topics
 
 
 Link for unmentioned datasets
