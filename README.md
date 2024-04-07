@@ -9,3 +9,6 @@ EDA_Practice_Project --> https://www.kaggle.com/datasets/pranavuikey/black-frida
 
 
 US_Accident_March23 -->  https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents
+
+
+Roller Coaster Database -->  https://www.kaggle.com/datasets/robikscube/rollercoaster-database
